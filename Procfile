@@ -1,0 +1,1 @@
+web: gunicorn framework-django-todo-app.wsgi:application
